@@ -22,3 +22,12 @@ Everything is static and built without any frameworks. Pure HTML and CSS are use
 - 🤝 **Clients & Partners** showcase
 - 💻 Clean UI with custom CSS
 - 📜 Marquee welcome banner
+
+## 📬 Contact
+
+Feel free to connect or collaborate!
+
+- 📧 Email: [jainamm88@gmail.com]
+- 🌐 GitHub: [Jainammehta1](https://github.com/Jainammehta1)
+- 🔗 LinkedIn: [Jainam Mehta](https://www.linkedin.com/in/jainam-mehta-0a38a9288)
+- 📍 Mumbai, India
